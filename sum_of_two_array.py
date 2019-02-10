@@ -13,7 +13,7 @@ def main():
 
 	#solution 3
 	# result = []
-	# for i in range(4):
+	# for i in range(n):
 	# 	result.append(a[i]+b[i])
 
 	print(result)
